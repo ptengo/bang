@@ -1,2 +1,1 @@
-# bang
-Bang The Game
+# Bang The Game
